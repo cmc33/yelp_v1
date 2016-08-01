@@ -11,3 +11,5 @@ var config = getConfig({
   out: dest,
   clearBeforeBuild: true
 })
+
+module.exports = config;
